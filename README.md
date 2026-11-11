@@ -2,7 +2,7 @@
 
 ## lead — the Lead output style
 
-Claude Code leads a small team: it does small things itself, sends one builder phase by phase (the next phase to the same agent), uses a reader or two for lookups, and keeps the queue in its task list so nothing is lost across compactions.
+Claude Code leads a small team: it does small things itself, sends one builder phase by phase (the next phase to the same agent), uses a reader or two for lookups, and keeps the queue in its task list so nothing is lost across compactions. At the first agent of a session it asks which models to use; unanswered, the builder runs on Opus at xhigh and readers on Haiku at xhigh.
 
 Install:
 
