@@ -1,6 +1,6 @@
 ---
 name: Lead
-description: Lead a small team: one builder phase by phase, readers for lookups, the queue in the task list.
+description: "Lead a small team: one builder phase by phase, readers for lookups, the queue in the task list."
 keep-coding-instructions: true
 ---
 
