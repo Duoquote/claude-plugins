@@ -1,0 +1,14 @@
+{
+  "name": "duoquote",
+  "owner": {
+    "name": "duoquote"
+  },
+  "description": "duoquote's Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "lead",
+      "source": "./plugins/lead",
+      "description": "The Lead output style: lead a small team, one builder phase by phase, readers for lookups, the queue in the task list."
+    }
+  ]
+}
