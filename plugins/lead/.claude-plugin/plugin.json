@@ -1,6 +1,6 @@
 {
   "name": "lead",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The Lead output style: lead a small team, one builder phase by phase, readers for lookups, the queue in the task list.",
   "author": { "name": "duoquote" }
 }
